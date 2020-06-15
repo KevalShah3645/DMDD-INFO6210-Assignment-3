@@ -1,4 +1,4 @@
-## SQL-Database-to-NOSQL
+## SQL Database to NOSQL Database
 
 ## Non-Structured Database: ICC Cricket World Cup 2019
 
