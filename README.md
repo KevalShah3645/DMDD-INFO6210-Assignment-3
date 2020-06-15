@@ -13,8 +13,8 @@ Converting SQL relational database into a non-relational NoSQL database. Used Mo
 
 # MongoDb port: localhost:27017
 
-# Datasets:
-We had 3 tables that were normalized in the previous assignment. These tables were
+# Datasets: 
+Tables that were normalized 
 1.	Players table
 2.	Boards table
 3.	Teams table
